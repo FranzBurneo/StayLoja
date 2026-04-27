@@ -182,8 +182,8 @@ export const property: Property = {
     }
   ],
   pricing: [
-    { label: "Desde", value: "$23 por noche" },
-    { label: "Fin de semana", value: "Desde $28 por noche" },
+    { label: "Desde", value: "$25 por noche" },
+    { label: "Fin de semana", value: "Desde $30 por noche" },
     { label: "Descuento semanal", value: "15%" },
     { label: "Descuento mensual", value: "25%" }
   ],
