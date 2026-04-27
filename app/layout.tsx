@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     "hospedaje familiar en Loja"
   ],
   icons: {
-    icon: "/favicon.svg"
+    icon: "/favicon.ico"
   },
   openGraph: {
     title: "Departamento familiar cerca del centro de Loja | Stay Loja Centro",
