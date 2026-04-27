@@ -1,0 +1,57 @@
+
+> casa-aurora-stay@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+  ▲ Next.js 14.2.35
+  - Local:        http://127.0.0.1:3000
+  - Network:      http://127.0.0.1:3000
+
+ ✓ Starting...
+ ✓ Ready in 1396ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1489ms (602 modules)
+ GET / 200 in 1905ms
+ GET / 200 in 71ms
+ ✓ Compiled in 358ms (602 modules)
+ GET / 200 in 194ms
+ GET / 200 in 40ms
+ GET / 200 in 58ms
+ ✓ Compiled /_not-found in 256ms (591 modules)
+ GET /_next/static/css/app/layout.css?v=1777263589927 404 in 343ms
+ GET /_next/static/chunks/main-app.js?v=1777263589927 404 in 131ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 21ms
+ GET /_next/static/chunks/app/page.js 404 in 20ms
+ GET / 200 in 76ms
+ GET /_next/static/css/app/layout.css?v=1777263595821 404 in 30ms
+ GET /_next/static/chunks/main-app.js?v=1777263595821 404 in 31ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 30ms
+ GET /_next/static/chunks/app/page.js 404 in 27ms
+ GET / 200 in 61ms
+ GET /_next/static/css/app/layout.css?v=1777263595996 404 in 15ms
+ GET /_next/static/chunks/main-app.js?v=1777263595996 404 in 16ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 15ms
+ GET /_next/static/chunks/app/page.js 404 in 15ms
+ GET / 200 in 49ms
+ GET /_next/static/css/app/layout.css?v=1777263596350 404 in 25ms
+ GET /_next/static/chunks/main-app.js?v=1777263596350 404 in 25ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 24ms
+ GET /_next/static/chunks/app/page.js 404 in 24ms
+ GET / 200 in 80ms
+ ✓ Compiled in 413ms (603 modules)
+ ✓ Compiled /_not-found in 155ms (592 modules)
+ GET /_next/static/webpack/7bab770b97592cb2.webpack.hot-update.json 404 in 227ms
+ GET / 200 in 118ms
+ ✓ Compiled in 315ms (605 modules)
+ GET / 200 in 95ms
+ GET / 200 in 88ms
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 1466ms (818 modules)
+ GET /_next/static/chunks/app-pages-internals.js 500 in 5781ms
+ GET /_next/static/css/app/layout.css?v=1777263968445 500 in 5784ms
+ GET /_next/static/chunks/app/page.js 500 in 5782ms
+ GET /_next/static/chunks/webpack.js?v=1777263968445 500 in 5784ms
+ GET /_next/static/chunks/main-app.js?v=1777263968445 500 in 5785ms
+ GET / 500 in 593ms
+ ✓ Compiled in 53ms (404 modules)
+ ✓ Compiled in 121ms (257 modules)
+ ✓ Compiled in 175ms (661 modules)
